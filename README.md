@@ -7,6 +7,6 @@ Launch this app to poll Chipotle's twitter feed during the finals for the free b
 For maximum effectiveness, watch the finals and launch this app immediately after hearing the keyword to save API calls. 
 
 ## Other
-Should use webhooks in the future instead of polling... I was too hungry to learn about it
-Had integrated with Twilio's API to automatically send  but chipotle blocked virtual numbers. 
+Should use webhooks in the future instead of polling... I was too hungry to learn about it  
+Had integrated with Twilio's API to automatically send  but chipotle blocked virtual numbers.   
 Side note: this did get me a free burrito. 
